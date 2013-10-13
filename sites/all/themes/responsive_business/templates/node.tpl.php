@@ -74,7 +74,7 @@
  * @see template_process()
  */
 ?>
-
+commmit
 <?php if (!$page): ?>
   <article id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
 <?php endif; ?>
